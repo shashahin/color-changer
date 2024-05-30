@@ -1,0 +1,55 @@
+.button{
+    display: flex;
+    height: 50px;
+    width: 50px;
+    margin-right: 5px;
+    border: solid 1px black;
+    border-radius: 50%;
+     
+
+}
+ .button-div{
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+#gray{
+   background-color: gray;
+}
+ 
+#red{
+    background-color:  red;
+}
+ 
+#yellow{
+    background-color:  yellow;
+}
+ 
+#green{
+    background-color:  green;
+}
+
+h1{
+    color: aqua;
+}
+
+.span1{
+    
+    background-color: red;
+
+
+}
+
+.span1{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 50px;
+    width: 50px;
+    margin-right: 5px;
+    
+    border-radius: 50%;
+     
+}
+ 
